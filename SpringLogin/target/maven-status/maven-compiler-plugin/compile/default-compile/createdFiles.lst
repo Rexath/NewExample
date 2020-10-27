@@ -1,0 +1,6 @@
+com\spring\login\entity\User.class
+com\spring\login\repository\UserRepository.class
+com\spring\login\config\ServletInitializer.class
+com\spring\login\controller\UserController.class
+com\spring\login\config\HibernateConfig.class
+com\spring\login\config\WebMvcConfig.class
